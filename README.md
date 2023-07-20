@@ -21,3 +21,6 @@ Technologies
 1.Express
 2.Sequelize
 3.MySql2
+![Screenshot (32)](https://github.com/Leilasinore/Products_API/assets/62138320/7c6212e2-4bcb-4efd-a02d-0278d0813856)
+
+
