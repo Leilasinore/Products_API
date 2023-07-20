@@ -21,6 +21,7 @@ exports.findProductById = async (req, res) => {
     .then((data) => {
       if (data) {
         res.status(200).send(data);
+        //console.log(req.headers)
       }
       res.status(404).send({message:`product not found by id ${id}`});
     })
